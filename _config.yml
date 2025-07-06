@@ -13,17 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: DenisNdemwa
+title: Denis Ndemwa
 email: kyalodenis@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-twitter_username: 
+  Assistant Professor of Information Systems | Researcher | Consultant
+twitter_username: DenisNdemwa
 github_username: ND3MW4
 minimal_mistakes_skin: neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
-
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -113,12 +110,3 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
-
-title: "Denis Ndemwa CV"
-description: "Curriculum Vitae and professional profile"
-theme: minimal-mistakes-jekyll
-minimal_mistakes_skin: default # or choose 'air', 'contrast', 'dark', 'sunrise' etc.
-author:  Denis Ndemwa
-  name: "Denis Ndemwa"
-  avatar: "/assets/images/avatar.jpg" # optional photo
-  bio: "Engineer passionate about designing, innovating, and optimizing systems."
