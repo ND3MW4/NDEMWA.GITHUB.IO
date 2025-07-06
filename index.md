@@ -14,8 +14,8 @@ author_profile: true
 
 ## 📜 Certifications
 
-Over 20 industry certifications available on Credly: denisndemwa
-
+Industry certifications
+---
 - Programmable Logic Controller (PLC)
 - Supervisory Control and Data Acquisition (SCADA)
 - Variable Frequency Drive (VFD)
@@ -27,8 +27,9 @@ Over 20 industry certifications available on Credly: denisndemwa
 
 ## 💼 Professional Experience
 
-**Electrical and Electronics Engineer - Nairobi County Goverment** 
-**Electrical and Electronics Engineer - Nairobi City Water and Sewewrage Company** 
+**Electrical and Electronics Engineer**, Nairobi County Goverment
+
+**Electrical and Electronics Engineer**, Nairobi City Water and Sewewrage Company
 
 ---
 
