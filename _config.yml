@@ -118,7 +118,7 @@ title: "Denis Ndemwa CV"
 description: "Curriculum Vitae and professional profile"
 theme: minimal-mistakes-jekyll
 minimal_mistakes_skin: default # or choose 'air', 'contrast', 'dark', 'sunrise' etc.
-author:
+author:  Denis Ndemwa
   name: "Denis Ndemwa"
   avatar: "/assets/images/avatar.jpg" # optional photo
   bio: "Engineer passionate about designing, innovating, and optimizing systems."
