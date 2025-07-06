@@ -14,7 +14,7 @@ author_profile: true
 
 ## 📜 Certifications
 
-Over 20 industry certifications available on Credly: https://www.credly.com/users/pmusuva
+Over 20 industry certifications available on Credly: denisndemwa
 
 - Programmable Logic Controller (PLC)
 - Supervisory Control and Data Acquisition (SCADA)
