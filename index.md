@@ -24,32 +24,11 @@ Over 20 industry certifications available on Credly: denisndemwa
 - Data and AI
 ---
 
-## 👩‍🏫 Academic Experience
-
-** **  
-- 
----
-
-## 🧪 Research & Publications
-
-
----
-
-## 🌍 Community Engagement
-
-** 
--
-
-
-**Consulting & Advocacy**  
-- 
-
----
 
 ## 💼 Professional Experience
 
-**Electrical and Electronics Engineer - Nairobi County Goverment** 
-- Electrical and Electronics Engineer - Nairobi City Water and Sewewrage Company
+** Electrical and Electronics Engineer - Nairobi County Goverment ** 
+-  Electrical and Electronics Engineer - Nairobi City Water and Sewewrage Company
 
 ---
 
