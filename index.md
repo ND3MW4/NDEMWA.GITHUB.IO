@@ -14,7 +14,7 @@ author_profile: true
 
 ## 📜 Certifications
 
-Industry certifications
+Industrial certifications
 ---
 - Programmable Logic Controller (PLC)
 - Supervisory Control and Data Acquisition (SCADA)
