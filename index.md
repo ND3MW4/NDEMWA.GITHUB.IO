@@ -38,7 +38,7 @@ title: "Curriculum Vitae – Denis Ndemwa"
 - **5. Data Visualization using Tableau**
 - **6. Linear Regression model**
 - **7. Classification Models**
-- 
+  
 ---
 
 ## 🤝 **Collaborations & Memberships**
