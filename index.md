@@ -5,7 +5,6 @@ title: "Curriculum Vitae – Denis Ndemwa"
 
 # 📄 Curriculum Vitae – Denis Ndemwa
 
----
 
 ## 🎓 **Education**
 - **Bachelor in Technology: Electrical and Electronics Engineering**, Technical University of Kenya
