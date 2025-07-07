@@ -1,47 +1,41 @@
 ---
 layout: single
+title: "Curriculum Vitae – Denis Ndemwa"
 author_profile: true
+permalink: /
 ---
 
-# Curriculum Vitae – Denis Ndemwa
+# 📄 Curriculum Vitae – Denis Ndemwa
 
 ---
 
-## 🎓 Education
-
+## 🎓 **Education**
 - **Bachelor in Technology: Electrical and Electronics Engineering**, Technical University of Kenya
-- **Diploma in Technology: Electrical and Electronics Engineering**, Technical University of Kenya  
+- **Diploma in Technology: Electrical and Electronics Engineering**, Technical University of Kenya
 
-
-## 📜 Certifications
-
-Industrial certifications
 ---
+
+## 📜 **Certifications**
+**Industrial certifications**:
+
 - Data and AI
 - Programmable Logic Controller (PLC)
 - Supervisory Control and Data Acquisition (SCADA)
 - Variable Frequency Drive (VFD)
-- Internet of Things and embedded systems
-- Accounting Fundamental
-  
----
-
-
-## 💼 Professional Experience
-
-**Electrical and Electronics Engineer**, Nairobi County Goverment
-
-**Electrical and Electronics Engineer**, Nairobi City Water and Sewewrage Company
+- Internet of Things and Embedded Systems
+- Accounting Fundamentals
 
 ---
 
-## 🤝 Collaborations & Memberships
+## 💼 **Professional Experience**
+- **Electrical and Electronics Engineer**, Nairobi County Government
+- **Electrical and Electronics Engineer**, Nairobi City Water and Sewerage Company
 
+---
+
+## 🤝 **Collaborations & Memberships**
 - Cubing Kenya
 
 ---
 
-> I am driven by a passion for designing, innovating, and optimizing the systems that power our world.
-
-[Back to Home](/)
-✅
+> ⚡ *Driven by a passion for designing, innovating, and optimizing the systems that power our world.*
