@@ -13,7 +13,8 @@ Welcome to DENIS NDEMWA!
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Denis Ndemwa
+title: "Denis Ndemwa CV"
+name: "Denis Ndemwa"
 email: kyalodenis@gmail.com
 description: >- I am an Electronics Engineer with a passion for designing and developing innovative hardware and embedded systems.
   Assistant Professor of Information Systems | Researcher | Consultant
