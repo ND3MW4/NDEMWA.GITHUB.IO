@@ -33,7 +33,7 @@ permalink: /
 
 ---
 
-## 💼 **Projects**
+## 📂 **Projects**
 - **1. Web Scraping**
 - **2. Data Wrangling Project**
 - **3. Exploratory Data Analysis (EDA)**
