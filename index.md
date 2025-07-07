@@ -1,8 +1,6 @@
 ---
 layout: single
 title: "Curriculum Vitae – Denis Ndemwa"
-author_profile: true
-permalink: /
 ---
 
 # 📄 Curriculum Vitae – Denis Ndemwa
