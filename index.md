@@ -16,12 +16,12 @@ author_profile: true
 
 Industrial certifications
 ---
+- Data and AI
 - Programmable Logic Controller (PLC)
 - Supervisory Control and Data Acquisition (SCADA)
 - Variable Frequency Drive (VFD)
 - Internet of Things and embedded systems
 - Accounting Fundamental
-- Data and AI
 ---
 
 
