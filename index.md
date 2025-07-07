@@ -32,14 +32,16 @@ permalink: /
 - **Electrical and Electronics Engineer**, Nairobi City Water and Sewerage Company
 
 ---
+
 ## 💼 **Projects**
-**1. Web Scraping**
-**2. Data Wrangling Project**
-**3. Exploratory Data Analysis (EDA)**
-**4. Business Intelligence with Power BI**
-**5. Data Visualization using Tableau**
-**6. Linear Regression model**
-**8. Classification Models**
+- **1. Web Scraping**
+- **2. Data Wrangling Project**
+- **3. Exploratory Data Analysis (EDA)**
+- **4. Business Intelligence with Power BI**
+- **5. Data Visualization using Tableau**
+- **6. Linear Regression model**
+- **7. Classification Models**
+- 
 ---
 
 ## 🤝 **Collaborations & Memberships**
