@@ -34,7 +34,16 @@ Here I share my portfolio, projects, blog posts, and certifications.
 
      
 - **Blog:** Articles & tutorials on data, tech, and engineering.
-- **Certifications:** List of industry certifications.
+- **Certifications:**
+- **List of industry certifications.**
+- Data and AI
+- Programmable Logic Controller (PLC)
+- Supervisory Control and Data Acquisition (SCADA)
+- Variable Frequency Drive (VFD)
+- Internet of Things and Embedded Systems
+- Accounting Fundamentals
+
+  
 - **CV:** Downloadable resume.
 
 ---
