@@ -15,38 +15,22 @@ Welcome to Denis Ndemwa!
 # in the templates via {{ site.myvariable }}.
 title: Denis Ndemwa
 email: kyalodenis@gmail.com
-description: >- I am an Electronics Engineer with a passion for designing and developing innovative hardware and embedded systems.
-   Researcher | Consultant
-twitter_username: Denis Ndemwa
+description: >-
+  I am an Electronics Engineer with a passion for designing and developing innovative hardware and embedded systems.
+  Researcher | Consultant
+twitter_username: DenisNdemwa
 github_username: ND3MW4
 minimal_mistakes_skin: neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
-# Build settings
-markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
-# Outputting
-permalink: /:categories/:title/
-paginate: 3 # amount of posts to show
+markdown: kramdown
+paginate: 3
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
-
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -60,7 +44,7 @@ author:
   avatar : "/assets/images/photo.jpg"
   bio    : "I'm an Electronics Engineer with a passion for designing and developing innovative hardware and embedded systems."
   links:
-      - label: "Website"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "X"
@@ -77,14 +61,12 @@ footer:
   links:
     - label: "LinkedIn"
       icon: "fab fa-linkedin"
-      https://www.linkedin.com/in/denisndemwa/
+      url: "https://www.linkedin.com/in/denisndemwa/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-       url: "https://github.com/ND3MW4"
-
+      url: "https://github.com/ND3MW4"
 
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -95,7 +77,6 @@ defaults:
       comments: true
       share: true
       related: true
-  # _pages
   - scope:
       path: "_pages"
       type: pages
