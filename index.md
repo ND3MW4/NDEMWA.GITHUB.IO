@@ -5,6 +5,7 @@ author_profile: true
 
 # Curriculum Vitae – Denis Ndemwa
 
+---
 
 ## 🎓 Education
 
@@ -22,6 +23,7 @@ Industrial certifications
 - Variable Frequency Drive (VFD)
 - Internet of Things and embedded systems
 - Accounting Fundamental
+  
 ---
 
 
