@@ -15,13 +15,15 @@ title: "Curriculum Vitae – Denis Ndemwa"
 ## 📜 **Certifications**
 **Industrial certifications**:
 
+**DATA SCIENCE AND AI PROJECTS**
 - Data and AI
 - Programmable Logic Controller (PLC)
 - Supervisory Control and Data Acquisition (SCADA)
 - Variable Frequency Drive (VFD)
 - Internet of Things and Embedded Systems
 - Accounting Fundamentals
-
+**ELECTRICAL ENGINEERING PROJECTS**
+  
 ---
 
 ## 💼 **Professional Experience**
