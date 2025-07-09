@@ -30,6 +30,7 @@ title: "Curriculum Vitae – Denis Ndemwa"
 ---
 
 ## 📂 **Projects**
+
 **DATA SCIENCE AND AI PROJECTS**
 - **1. Web Scraping**
 - **2. Data Wrangling Project**
@@ -39,7 +40,8 @@ title: "Curriculum Vitae – Denis Ndemwa"
 - **6. Linear Regression model**
 - **7. Classification Models**
   
-  **ELECTRICAL ENGINEERING PROJECTS**
+
+**ELECTRICAL ENGINEERING PROJECTS**
   
 ---
 
