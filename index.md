@@ -2,7 +2,6 @@
 layout: single
 author_profile: true
 ---
----
 # **📄 Curriculum Vitae – Denis Ndemwa**
 ---
 ## 🎓 **Education**
