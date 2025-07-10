@@ -12,7 +12,7 @@ main:
     url: /labs/
 
   - title: "Posts"
-    url: /posts/
+    url: /_posts/
 
   - title: "Tags"
     url: /tags/
