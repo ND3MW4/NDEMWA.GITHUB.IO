@@ -7,6 +7,8 @@ author_profile: true
 
 ## ⚡ Electrical & Electronics Engineering Projects
 
+---
+
 *(Add specific hardware, embedded systems, or IoT projects you’ve worked on.  
 Example below — feel free to replace or expand):*
 
