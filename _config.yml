@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Denis Ndemwa"
   avatar : "/assets/images/photo.jpg"
-  bio    : "I design, develop innovative hardware and embedded systems, research, and consult."
+  bio    : "Inventing at the Intersection of Circuits, Code, and Data Intelligence"
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
