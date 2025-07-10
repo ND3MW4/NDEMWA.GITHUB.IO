@@ -14,8 +14,5 @@ main:
   - title: "Posts"
     url: /_posts/
 
-  - title: "Tags"
-    url: /tags/
-
   - title: "About"
     url: /about/
