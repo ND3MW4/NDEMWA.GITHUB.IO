@@ -7,7 +7,7 @@ author_profile: true
 
 # 🛠 Projects
 
-Here’s a selection of projects showcasing my work across **Data Science & AI**
+Here’s a selection of projects showcasing my work in **Data Science & AI**
 
 ---
 
