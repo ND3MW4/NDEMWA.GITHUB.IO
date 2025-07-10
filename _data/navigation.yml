@@ -11,8 +11,5 @@ main:
   - title: "Lab Challenges"
     url: /labs/
 
-  - title: "Posts"
-    url: /_posts/
-
   - title: "About"
     url: /about/
