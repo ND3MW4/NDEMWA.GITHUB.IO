@@ -5,9 +5,7 @@ main:
     url: /Electrical & Electronics Engineering
   - title: "Projects"
     url: /projects/
-  - title: "Publications"
-    url: /Publications/
-  - title: "Lab"
+  - title: "Lab Challenges"
     url: /lab/
   - title: "Posts"
     url: /posts/
