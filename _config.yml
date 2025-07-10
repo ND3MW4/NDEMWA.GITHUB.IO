@@ -60,7 +60,7 @@ author:
   avatar : "/assets/images/photo.jpg"
   bio    : "I design, develop innovative hardware and embedded systems, research, and consult."
   links:
-        - label: "Website"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "X"
