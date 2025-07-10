@@ -5,12 +5,13 @@ permalink: /Electrical & Electronics Engineering/
 author_profile: true
 ---
 
-## ⚡ Electrical & Electronics Engineering Projects
+Projects
 
 Here’s a selection of projects showcasing my work in **Electrical & Electronics Engineering.**
 
 ---
 
+## ⚡ Electrical & Electronics Engineering Projects
 *(Add specific hardware, embedded systems, or IoT projects you’ve worked on.  
 Example below — feel free to replace or expand):*
 
