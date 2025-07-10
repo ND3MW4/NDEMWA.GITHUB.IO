@@ -31,13 +31,27 @@ Feel free to reach out through any of the following channels:
 ---
 
 ### 🌐 Let’s connect!
-Follow me on [GitHub](https://github.com/ND3MW4), [X (Twitter)](https://x.com/DenisNdemwa), or explore my [projects](/projects/). 
-## 📬 Contact Me
 
----
-
-### 📧 **Email** [kyalodenis@gmail.com](mailto:kyalodenis@gmail.com)  ### 💼 **LinkedIn** [linkedin.com/in/denisndemwa](https://www.linkedin.com/in/denisndemwa/) ### 💻 **GitHub** - [github.com/ND3MW4](https://github.com/ND3MW4)  ### 🐦 **X (formerly Twitter)** [@DenisNdemwa](https://x.com/DenisNdemwa)  ### 📸 **Instagram**  - [instagram.com/ndemwah] (https://instagram.com/ndemwah)
-
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/denisndemwa/"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ND3MW4"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:kyalodenis@gmail.com"
+    - label: "Call"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+254710425528"
+    - label: "X"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/DenisNdemwa"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/ndemwah"
 ---
 
 > ⚡ *Let’s connect and build something impactful together!*
