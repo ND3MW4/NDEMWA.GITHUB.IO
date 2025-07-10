@@ -6,11 +6,6 @@ email: kyalodenis@gmail.com
 description: "Electrical & Electronics Engineer | Researcher | Consultant — Passionate about designing and developing innovative hardware and embedded systems."
 twitter_username: DenisNdemwa
 github_username: ND3MW4
-icon: "fas fa-fw fa-phone"
-url: "tel:+254710425528"
-label: "Email"
-icon: "fas fa-fw fa-envelope"
-url: "mailto:kyalodenis@gmail.com"
 
 # Theme skin
 # options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
@@ -45,6 +40,12 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ND3MW4"
+    - label:: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:kyalodenis@gmail.com"
+    - label: "Call"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+254710425528"
 
 footer:
   links:
@@ -54,6 +55,23 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ND3MW4"
+    - label:: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:kyalodenis@gmail.com"
+    - label: "Call"
+      icon: "fas fa-fw fa-phone"
+      url: "tel:+254710425528"
+      - label: "X"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://x.com/DenisNdemwa"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/ND3MW4"
+    - label: "Instagram"
+      icon: "fab fa-fw fa-instagram"
+      url: "https://instagram.com/ndemwah"
+
+
 
 defaults:
   - scope:
