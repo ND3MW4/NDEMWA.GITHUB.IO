@@ -7,7 +7,7 @@ author_profile: true
 
 ## ⚡ Electrical & Electronics Engineering Projects
 
-Here’s a selection of projects showcasing my work across Electrical & Electronics Engineering.
+Here’s a selection of projects showcasing my work in **Electrical & Electronics Engineering.**
 
 ---
 
