@@ -20,7 +20,7 @@ description: >-
   Researcher | Consultant
 twitter_username: DenisNdemwa
 github_username: ND3MW4
-minimal_mistakes_skin: neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin: minimal_mistakes_skin: neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
 remote_theme: mmistakes/minimal-mistakes
@@ -42,17 +42,17 @@ plugins:
 author:
   name   : "Denis Ndemwa"
   avatar : "/assets/images/photo.jpg"
-  bio    : "I'm an Electronics Engineer with a passion for designing and developing innovative hardware and embedded systems."
+  bio    : "Inventing at the intersection of circuits, code, and intelligent systems."
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/DenisNdemwa"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/denisndemwa/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/ND3MW4"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:kyalodenis@gmail.com"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/ndemwah"
