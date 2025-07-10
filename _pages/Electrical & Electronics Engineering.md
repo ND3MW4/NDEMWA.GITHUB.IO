@@ -1,3 +1,10 @@
+---
+layout: single
+title: "Electrical & Electronics Engineering"
+permalink: /Electrical & Electronics Engineering/
+author_profile: true
+---
+
 ## ⚡ Electrical & Electronics Engineering Projects
 
 *(Add specific hardware, embedded systems, or IoT projects you’ve worked on.  
