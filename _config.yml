@@ -1,5 +1,5 @@
 Welcome to Denis Ndemwa!
-
+#
 # This config file is meant for settings that affect your whole blog, values
 # which you are expected to set up once and rarely edit after that. If you find
 # yourself editing this file very often, consider using Jekyll's data files
@@ -14,23 +14,39 @@ Welcome to Denis Ndemwa!
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Denis Ndemwa
-email: kyalodenis@gmail.com
-description: >-
-  I am an Electronics Engineer with a passion for designing and developing innovative hardware and embedded systems.
-  Researcher | Consultant
+email: kyalodeins@gmail.com
+description: >- # this means to ignore newlines until "baseurl:"
+  Electrical and Electronics Engineer  | Researcher | Consultant
 twitter_username: DenisNdemwa
 github_username: ND3MW4
 minimal_mistakes_skin: neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 search: true
 
-remote_theme: mmistakes/minimal-mistakes
+# Build settings
 markdown: kramdown
-paginate: 3
+remote_theme: mmistakes/minimal-mistakes
+# Outputting
+permalink: /:categories/:title/
+paginate: 3 # amount of posts to show
 paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
 
+# Exclude from processing.
+# The following items will not be processed, by default. Create a custom list
+# to override the default setting.
+# exclude:
+#   - Gemfile
+#   - Gemfile.lock
+#   - node_modules
+#   - vendor/bundle/
+#   - vendor/cache/
+#   - vendor/gems/
+#   - vendor/ruby/
+
+# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -42,9 +58,9 @@ plugins:
 author:
   name   : "Denis Ndemwa"
   avatar : "/assets/images/photo.jpg"
-  bio    : "I'm an Electronics Engineer with a passion for designing and developing innovative hardware and embedded systems."
+  bio    : "I design, develop innovative hardware and embedded systems, research, and consult."
   links:
-    - label: "Website"
+        - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "X"
@@ -67,6 +83,7 @@ footer:
       url: "https://github.com/ND3MW4"
 
 defaults:
+  # _posts
   - scope:
       path: ""
       type: posts
@@ -77,6 +94,7 @@ defaults:
       comments: true
       share: true
       related: true
+  # _pages
   - scope:
       path: "_pages"
       type: pages
