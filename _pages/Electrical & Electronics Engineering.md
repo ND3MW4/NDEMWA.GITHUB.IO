@@ -5,7 +5,7 @@ permalink: /Electrical & Electronics Engineering/
 author_profile: true
 ---
 
-# 🛠 Projects
+# 🛠 Projects 
 
 Here’s a selection of projects showcasing my work in **Electrical & Electronics Engineering.**
 
