@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "Curriculum Vitae – Denis Ndemwa"
+author_profile: true
 ---
 
 # 📄 Curriculum Vitae – Denis Ndemwa
-
 
 ## 🎓 **Education**
 - **Bachelor in Technology: Electrical and Electronics Engineering**, Technical University of Kenya
@@ -20,7 +20,7 @@ title: "Curriculum Vitae – Denis Ndemwa"
 - Variable Frequency Drive (VFD)
 - Internet of Things and Embedded Systems
 - Accounting Fundamentals
-  
+
 ---
 
 ## 💼 **Professional Experience**
@@ -39,10 +39,9 @@ title: "Curriculum Vitae – Denis Ndemwa"
 - **5. Data Visualization using Tableau**
 - **6. Linear Regression model**
 - **7. Classification Models**
-  
 
 **ELECTRICAL ENGINEERING PROJECTS**
-  
+
 ---
 
 ## 🤝 **Collaborations & Memberships**
