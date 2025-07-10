@@ -25,5 +25,19 @@ In this space, you’ll find:
 
 ---
 
+I’m always open to professional connections, collaborations, and new opportunities!  
+Feel free to reach out through any of the following channels:
+
+---
+
 ### 🌐 Let’s connect!
-Follow me on [GitHub](https://github.com/ND3MW4), [X (Twitter)](https://x.com/DenisNdemwa), or explore my [projects](/projects/).
+Follow me on [GitHub](https://github.com/ND3MW4), [X (Twitter)](https://x.com/DenisNdemwa), or explore my [projects](/projects/). 
+## 📬 Contact Me
+
+---
+
+### 📧 **Email** [kyalodenis@gmail.com](mailto:kyalodenis@gmail.com)  ### 💼 **LinkedIn** [linkedin.com/in/denisndemwa](https://www.linkedin.com/in/denisndemwa/) ### 💻 **GitHub** - [github.com/ND3MW4](https://github.com/ND3MW4)  ### 🐦 **X (formerly Twitter)** [@DenisNdemwa](https://x.com/DenisNdemwa)  ### 📸 **Instagram**  - [instagram.com/ndemwah] (https://instagram.com/ndemwah)
+
+---
+
+> ⚡ *Let’s connect and build something impactful together!*
