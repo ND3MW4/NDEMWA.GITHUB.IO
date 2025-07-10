@@ -7,7 +7,7 @@ author_profile: true
 
 # 🛠 Projects
 
-Here’s a selection of projects showcasing my work across **Data Science, AI**, and **Electrical & Electronics Engineering**.
+Here’s a selection of projects showcasing my work across **Data Science & AI**, and **Electrical & Electronics Engineering**.
 
 ---
 
