@@ -32,7 +32,7 @@ Feel free to reach out through any of the following channels:
 
 ### 🌐  *Let’s connect and build something impactful together!*
 
-> 👉 See [Data & AI](/projects/) or [Electrical & Electrical Engineering](/electrical/)   
+> 👉 See [Data & AI](/projects/) or [Electrical & Electrical Engineering](/electrical/)  to view my projects.
 
 ---
 
