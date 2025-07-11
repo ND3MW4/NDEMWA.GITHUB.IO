@@ -64,17 +64,11 @@ Importance of designing user-friendly and intuitive dashboards for non-technical
 
 # Data Visualization using Tableau
 
----
-
 # Problem Statement
-
----
 
 Create an HR analytics dashboard to visualize workforce composition, turnover trends, and diversity metrics.
 
 # Approach
-
----
 
 Connected Tableau to an HR dataset in Excel.
 
@@ -84,18 +78,13 @@ Built multiple visualizations: bar charts for turnover, pie charts for diversity
 
 Combined visualizations into a single interactive dashboard with filters and tooltips.
 
----
-
 # Tools Used
-
----
 
 Tableau Desktop
 
 Tableau Prep (optional, for data cleaning)
 
 Excel
-
 
 
 🖼️ Screenshots
@@ -105,8 +94,6 @@ Excel
 (Add screenshots of Tableau dashboards and individual charts here)
 
 # Key Lessons Learned
-
----
 
 Designing dashboards with clear storytelling and logical flow.
 
