@@ -35,4 +35,4 @@ Built regression & classification models.
 ---
 
 
-> ✨ *I’m passionate about combining hardware & software to solve real-world problems.*
+> ✨ "Exploring data, building models, and visualizing the unseen stories behind the numbers."
