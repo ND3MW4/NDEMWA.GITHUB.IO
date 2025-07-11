@@ -46,7 +46,8 @@ DAX
 
 
 
-✅ Key Lessons Learned
+✅# Key Lessons Learned
+
 Efficient use of Power Query for data wrangling and combining multiple data sources.
 
 Writing reusable DAX measures to keep calculations clean and scalable.
