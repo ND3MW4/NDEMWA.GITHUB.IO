@@ -11,7 +11,21 @@ Here’s a selection of projects showcasing my work in **Electrical & Electronic
 
 ---
 
-## ⚡ Electrical & Electronics Engineering Projects
+⚡ Electrical & Electronics Engineering Projects
+
+### ⚡ Smart Energy Meter
+Designed and prototyped a real-time monitoring system.
+- Microcontrollers, embedded C  
+- [View Project ➜](./projects/smart-energy-meter)
+
+---
+
+### 🏭 PLC Automation
+Automated industrial process control using PLCs.
+- Siemens / Schneider PLCs  
+- [View Project ➜](./projects/plc-automation)
+
+---
 
 ### 📌 Smart Energy Meter
 Designed and prototyped a smart meter for real-time energy monitoring and billing.
