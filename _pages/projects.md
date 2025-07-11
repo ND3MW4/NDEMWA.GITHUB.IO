@@ -7,7 +7,7 @@ author_profile: true
 
 # 💡 Projects
 
-A showcase of my work in **Data Science**, **Electrical & Electronics Engineering**, and more.
+A showcase of my work in **Data Science**
 
 ---
 
