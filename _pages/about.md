@@ -32,26 +32,19 @@ Feel free to reach out through any of the following channels:
 
 ### 🌐 Let’s connect!
 
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/denisndemwa/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/ND3MW4"
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:kyalodenis@gmail.com"
-    - label: "Call"
-      icon: "fas fa-fw fa-phone"
-      url: "tel:+254710425528"
-    - label: "X"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://x.com/DenisNdemwa"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/ndemwah"
+> 👉 See [Projects](/projects/, [Electrical & Electrical Eengineering](/electrical/ for details.
+
 ---
 
-> ⚡ *Let’s connect and build something impactful together!*
+## 🤝 **Connect with me**
+- [GitHub](https://github.com/ND3MW4)
+- [LinkedIn](https://www.linkedin.com/in/denisndemwa/)
+- 📧 [kyalodenis@gmail.com](mailto:kyalodenis@gmail.com)
+
+> ⚡ *Building solutions that blend engineering precision with data-driven insights.*
+
+---
+
+> ⚡ *Let’s connect and build something impactful together!* *Thank you for visiting my portfolio!*
+
+---
