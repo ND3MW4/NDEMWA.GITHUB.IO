@@ -3,6 +3,14 @@ layout: single
 title: "Lab Challenges"
 permalink: /labs/
 author_profile: true
+
+---
+
+# 🧪 Lab Challenges
+
+A curated set of lab challenges and mini-projects that blend hands-on practice, critical thinking, and applied data science techniques.  
+These labs come from self-study, coursework, and personal curiosity.
+
 ---
 📊 Business Intelligence with Power BI
 
@@ -146,5 +154,141 @@ Fine-tuning tooltips, colors, and formatting for better usability and visual app
 
 ---
 
+## 🌐 Web Scraping
+
+**Problem Statement:**  
+Extract structured data from a website to analyze sports statistics.
+
+**Approach:**  
+- Identified HTML structure and data elements.
+- Used BeautifulSoup for parsing static pages.
+- Stored data in CSV files for analysis.
+
+**Tools Used:**  
+Python, BeautifulSoup, pandas
+
+**Key Lessons Learned:**  
+- How to parse HTML effectively.
+- Cleaning and structuring raw scraped data.
+- Respecting robots.txt and ethical scraping practices.
+
+---
+
+## 🎬 Netflix Data Wrangling
+
+**Problem Statement:**  
+Prepare Netflix title data for analysis by handling inconsistencies and missing values.
+
+**Approach:**  
+- Explored dataset to understand schema and data quality.
+- Handled missing data, standardized date formats, and normalized categorical fields.
+
+**Tools Used:**  
+Python, pandas
+
+**Key Lessons Learned:**  
+- Importance of initial data profiling.
+- Data cleaning techniques: fillna, dropna, and string manipulation.
+- Preparing data to support later visualization and modeling.
+
+---
+
+## 📊 Exploratory Data Analysis (EDA)
+
+**Problem Statement:**  
+Identify trends and insights in the cleaned Netflix dataset.
+
+**Approach:**  
+- Created visualizations for distributions, correlations, and trends.
+- Highlighted content trends over time and popular genres.
+
+**Tools Used:**  
+Python, matplotlib, seaborn, pandas
+
+**Key Lessons Learned:**  
+- Visual storytelling: turning raw data into insight.
+- Choosing the right plot types for different questions.
+- Spotting outliers and data quality issues through visuals.
+
+---
+
+## 🧠 Interview with Geoffrey Everest Hinton (Godfather of AI)
+
+**Problem Statement:**  
+Summarize expert insights on deep learning, AI ethics, and the future of AI.
+
+**Approach:**  
+- Watched the interview, created structured notes.
+- Highlighted quotes and reflected on implications for machine learning.
+
+**Tools Used:**  
+Markdown, note-taking apps (Notion, Obsidian)
+
+**Key Lessons Learned:**  
+- Value of learning directly from pioneers.
+- Importance of critical thinking in AI.
+- Ethical considerations as AI evolves.
+
+---
+
+## 📈 Regression Models
+
+**Problem Statement:**  
+Predict numeric outcomes (e.g., ratings or views) using regression.
+
+**Approach:**  
+- Engineered features.
+- Applied Linear Regression and regularized models (Ridge, Lasso).
+- Evaluated using RMSE and R².
+
+**Tools Used:**  
+Python, scikit-learn, pandas
+
+**Key Lessons Learned:**  
+- Impact of feature selection and scaling.
+- Benefits of regularization to reduce overfitting.
+- Using metrics to compare model performance.
+
+---
+
+## 🧪 Classification Models
+
+**Problem Statement:**  
+Classify items into categories, like “popular” vs “niche” titles.
+
+**Approach:**  
+- Prepared categorical and numerical features.
+- Applied Logistic Regression and Decision Tree classifiers.
+- Evaluated accuracy and visualized confusion matrix.
+
+**Tools Used:**  
+Python, scikit-learn, pandas
+
+**Key Lessons Learned:**  
+- Handling class imbalance.
+- Trade-offs between model simplicity and accuracy.
+- Choosing the right evaluation metrics for the task.
+
+---
+
+## 🔧 MLOps
+
+**Problem Statement:**  
+Build and deploy an end-to-end machine learning pipeline.
+
+**Approach:**  
+- Structured project with modular scripts.
+- Tracked experiments using MLflow.
+- Explored Docker for deployment and reproducibility.
+
+**Tools Used:**  
+Python, MLflow, Docker, scikit-learn
+
+**Key Lessons Learned:**  
+- Reproducibility in ML workflows.
+- Tracking and comparing experiments.
+- Basics of CI/CD and deployment readiness.
+
+---
 
 
