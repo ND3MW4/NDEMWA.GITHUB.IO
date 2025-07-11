@@ -30,9 +30,9 @@ Feel free to reach out through any of the following channels:
 
 ---
 
-### 🌐 Let’s connect!
+### 🌐  *Let’s connect and build something impactful together!*
 
-> 👉 See [Projects](/projects/) or [Electrical & Electrical Engineering](/electrical/)   
+> 👉 See [Data & AI](/projects/) or [Electrical & Electrical Engineering](/electrical/)   
 
 ---
 
@@ -45,6 +45,6 @@ Feel free to reach out through any of the following channels:
 
 ---
 
-> ⚡ *Let’s connect and build something impactful together!* *Thank you for visiting my portfolio!*
+> ⚡ *Thank you for visiting my portfolio!*
 
 ---
