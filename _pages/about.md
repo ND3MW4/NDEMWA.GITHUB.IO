@@ -32,7 +32,7 @@ Feel free to reach out through any of the following channels:
 
 ### 🌐 Let’s connect!
 
-> 👉 See [Projects](/projects/, [Electrical & Electrical Eengineering](/electrical/ for details.
+> 👉 See [Projects](/projects/) or [Electrical & Electrical Engineering](/electrical/)   
 
 ---
 
