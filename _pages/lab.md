@@ -4,73 +4,34 @@ title: "Lab Challenges"
 permalink: /labs/
 author_profile: true
 ---
+📊 Business Intelligence with Power BI
+🧩 Problem Statement
+Build an interactive dashboard to analyze and visualize product sales, regional performance, and key business metrics for a fictional retail company.
 
-# 🧪 Lab Challenges & Writeups
+⚙️ Approach
+Imported sales data into Power BI.
 
-A collection of lab-based challenges and practice tasks completed during training and personal research.  
-Each writeup shares the **problem statement**, **approach**, **tools used**, and **key lessons learned**.
+Performed data cleaning and transformation using Power Query.
 
----
+Created measures using DAX for KPIs like Total Sales, Average Profit Margin, and Year-over-Year Growth.
 
-## 🧩 Lab Challenge 1: SQL Injection Practice
+Designed an interactive report with slicers and drill-through pages to analyze trends by product category and region.
 
-<img width="1122" height="651" alt="image" src="https://github.com/user-attachments/assets/445e0743-6b73-42ea-a072-d9c969191497" />
+🛠 Tools Used
+Microsoft Power BI
+
+Power Query
+
+DAX
+
+🖼️ Screenshots
+<img width="742" height="262" alt="bi load" src="https://github.com/user-attachments/assets/e78a38d6-8cd1-46b1-a7fc-838e62328019" />
 
 
----
+✅ Key Lessons Learned
+Efficient use of Power Query for data wrangling and combining multiple data sources.
 
-## 🧩 Lab Challenge 2: Cross-Site Scripting (XSS)
+Writing reusable DAX measures to keep calculations clean and scalable.
 
-**🔹 Problem Statement:**  
-Find and exploit a reflected XSS vulnerability.
+Importance of designing user-friendly and intuitive dashboards for non-technical stakeholders.
 
-**🔧 Approach:**  
-- Tested inputs like `<script>alert('XSS')</script>`.
-- Analyzed server response for unsanitized outputs.
-
-**🛠 Tools Used:**  
-Browser dev tools, Burp Suite.
-
-**✅ Key Lessons Learned:**  
-- Input validation and output encoding are critical.
-- How XSS payloads can escalate risk.
-
----
-
-## 🧩 Lab Challenge 3: Data Cleaning & Transformation
-
-**🔹 Problem Statement:**  
-Prepare a messy dataset for visualization.
-
-**🔧 Approach:**  
-- Removed duplicates and handled missing values.
-- Standardized date formats and column names.
-
-**🛠 Tools Used:**  
-Python (Pandas), Jupyter Notebook.
-
-**✅ Key Lessons Learned:**  
-- Exploratory data analysis (EDA) helps find issues early.
-- Pandas is powerful for data wrangling.
-
----
-
-## 🧩 Lab Challenge 4: Build a Classification Model
-
-**🔹 Problem Statement:**  
-Classify emails as spam or not spam.
-
-**🔧 Approach:**  
-- Vectorized text with TF-IDF.
-- Trained Logistic Regression and compared metrics.
-
-**🛠 Tools Used:**  
-scikit-learn, Python.
-
-**✅ Key Lessons Learned:**  
-- Preprocessing text is crucial.
-- Importance of precision and recall for imbalanced datasets.
-
----
-
-> 💡 *Lab challenges help me bridge theory with hands-on problem-solving — sharpening both technical and analytical skills.*
