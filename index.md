@@ -47,4 +47,6 @@ author_profile: true
 
 ---
 
-> ⚡ *Driven by a passion for designing, innovating, and optimizing the systems that power our world.*
+> ⚡ *Bridging electronics and AI to bring analytics-powered systems to life.*
+
+---
