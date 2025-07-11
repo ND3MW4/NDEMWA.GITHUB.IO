@@ -14,20 +14,8 @@ Each writeup shares the **problem statement**, **approach**, **tools used**, and
 
 ## 🧩 Lab Challenge 1: SQL Injection Practice
 
-**🔹 Problem Statement:**  
-Identify and exploit a SQL injection vulnerability to retrieve hidden user data.
+<img width="1122" height="651" alt="image" src="https://github.com/user-attachments/assets/445e0743-6b73-42ea-a072-d9c969191497" />
 
-**🔧 Approach:**  
-- Mapped parameters in web forms.
-- Used `' OR '1'='1` to test vulnerability.
-- Automated exploitation with SQLMap.
-
-**🛠 Tools Used:**  
-SQLMap, Burp Suite, browser dev tools.
-
-**✅ Key Lessons Learned:**  
-- Importance of parameterized queries.
-- Basic automation with SQLMap.
 
 ---
 
