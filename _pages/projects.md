@@ -34,20 +34,5 @@ Built regression & classification models.
 
 ---
 
-## ⚙️ Electrical & Electronics Engineering
-
-### ⚡ Smart Energy Meter
-Designed and prototyped a real-time monitoring system.
-- Microcontrollers, embedded C  
-- [View Project ➜](./projects/smart-energy-meter)
-
----
-
-### 🏭 PLC Automation
-Automated industrial process control using PLCs.
-- Siemens / Schneider PLCs  
-- [View Project ➜](./projects/plc-automation)
-
----
 
 > ✨ *I’m passionate about combining hardware & software to solve real-world problems.*
