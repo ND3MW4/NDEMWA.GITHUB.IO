@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-**Denis Ndemwa **
+**Denis Ndemwa**
 
 📊 Data Scientist,⚡Electrical & Electronics Engineer
 
