@@ -16,7 +16,7 @@ A showcase of my work in **Data Science**
 ### 🌐 Web Scraping
 Extracted hockey stats from [scrapethissite.com](https://www.scrapethissite.com/).
 - Python, BeautifulSoup, pandas  
-- [View Project ➜](./projects/web-scraping)
+- [View Project ➜]([./projects/web-scraping](https://github.com/ND3MW4/web-scraping))
 
 ---
 
