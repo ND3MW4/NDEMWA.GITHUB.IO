@@ -25,8 +25,12 @@ Power Query
 DAX
 
 🖼️ Screenshots
+# Loading data
 <img width="742" height="262" alt="bi load" src="https://github.com/user-attachments/assets/e78a38d6-8cd1-46b1-a7fc-838e62328019" />
+
+# Transforming data
 <img width="957" height="543" alt="bi l" src="https://github.com/user-attachments/assets/49b2f020-4c19-4eee-a658-3562224e42c8" />
+
 <img width="1341" height="266" alt="bi t" src="https://github.com/user-attachments/assets/4497b7a7-be3e-4102-940d-75952cf9e6ae" />
 <img width="1181" height="527" alt="bi" src="https://github.com/user-attachments/assets/87a7e388-33d4-4df2-b2a4-d3cb190918c3" />
 <img width="1205" height="501" alt="bi 2" src="https://github.com/user-attachments/assets/08496978-6eb2-4f3b-9fae-b76b2e3d5771" />
