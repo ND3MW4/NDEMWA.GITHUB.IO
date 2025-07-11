@@ -24,7 +24,7 @@ author_profile: true
 ## 💼 **Professional Experience**
 - **Electrical and Electronics Engineer**, Nairobi County Government
 - **Electrical and Electronics Engineer**, Nairobi City Water and Sewerage Company
-
+- **Construction Site Supervisor**,        Alpha Quest Models
 ---
 
 ## 📂 **Projects**
