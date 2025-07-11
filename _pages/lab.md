@@ -6,7 +6,7 @@ author_profile: true
 ---
 📊 Business Intelligence with Power BI
 
-🧩# Problem Statement
+🧩 # Problem Statement
 
 Build an interactive dashboard to analyze and visualize product sales, regional performance, and key business metrics for a fictional retail company.
 
