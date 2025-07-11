@@ -2,7 +2,9 @@
 layout: single
 author_profile: true
 ---
-# Denis Ndemwa - 📊 Data Scientist,⚡Electrical & Electronics Engineer
+# Denis Ndemwa 
+
+📊 Data Scientist,⚡Electrical & Electronics Engineer
 ---
 ## 🎓 **Education**
 - **Bachelor in Technology: Electrical and Electronics Engineering**, Technical University of Kenya
