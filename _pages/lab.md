@@ -291,4 +291,45 @@ Python, MLflow, Docker, scikit-learn
 
 ---
 
+# Field Lab: Supervising a Construction Site
 
+# Problem Statement
+
+Oversee daily operations at an active construction site to ensure safety, quality, and project milestones are achieved — all while managing people, equipment, and unforeseen challenges.
+
+# Approach
+
+Daily planning: Started each morning by reviewing schedules, checking weather forecasts, and briefing teams.
+
+Site inspection: Conducted walk-throughs to verify safety compliance (PPE use, secured scaffolding, clean pathways).
+
+Coordination: Communicated with subcontractors, suppliers, and engineers to align on daily targets.
+
+Problem-solving: Resolved on-site issues like delayed material deliveries, equipment breakdowns, and design clarifications.
+
+Reporting: Logged daily progress reports, incidents, and resource usage.
+
+# Tools Used
+
+Construction management software (e.g., Procore, Buildertrend)
+
+Mobile apps for site reporting and checklists
+
+Standard safety equipment: helmet, vest, boots
+
+Radio and phone for quick team coordination
+
+#Key Lessons Learned
+
+Proactive communication is vital — delays are often prevented by clarifying plans early.
+
+Safety isn’t a checklist — it’s part of daily habits and team culture.
+
+Flexibility and quick thinking help handle surprises like weather, late deliveries, or design changes.
+
+Clear documentation helps protect the team and keep stakeholders aligned.
+
+---
+
+
+“Transforming vision into built reality with precision and technology.”*
