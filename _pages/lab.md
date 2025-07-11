@@ -23,7 +23,8 @@ Created measures using DAX for KPIs like Total Sales, Average Profit Margin, and
 
 Designed an interactive report with slicers and drill-through pages to analyze trends by product category and region.
 
-🛠 Tools Used
+# Tools Used
+
 Microsoft Power BI
 
 Power Query
