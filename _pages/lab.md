@@ -52,11 +52,69 @@ DAX
 
 
 
-✅# Key Lessons Learned
+# Key Lessons Learned
 
 Efficient use of Power Query for data wrangling and combining multiple data sources.
 
 Writing reusable DAX measures to keep calculations clean and scalable.
 
 Importance of designing user-friendly and intuitive dashboards for non-technical stakeholders.
+
+---
+
+# Data Visualization using Tableau
+
+---
+
+# Problem Statement
+
+---
+
+Create an HR analytics dashboard to visualize workforce composition, turnover trends, and diversity metrics.
+
+# Approach
+
+---
+
+Connected Tableau to an HR dataset in Excel.
+
+Cleaned and reshaped data to prepare for analysis.
+
+Built multiple visualizations: bar charts for turnover, pie charts for diversity, and trend lines for hiring vs. attrition over time.
+
+Combined visualizations into a single interactive dashboard with filters and tooltips.
+
+---
+
+# Tools Used
+
+---
+
+Tableau Desktop
+
+Tableau Prep (optional, for data cleaning)
+
+Excel
+
+
+
+🖼️ Screenshots
+
+---
+
+(Add screenshots of Tableau dashboards and individual charts here)
+
+# Key Lessons Learned
+
+---
+
+Designing dashboards with clear storytelling and logical flow.
+
+Using calculated fields and level-of-detail (LOD) expressions to create advanced metrics.
+
+Fine-tuning tooltips, colors, and formatting for better usability and visual appeal.
+
+---
+
+
 
