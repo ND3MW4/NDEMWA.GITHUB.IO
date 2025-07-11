@@ -38,7 +38,7 @@ Explored data to reveal trends, distributions, and relationships.
 - Detected outliers and data quality issues
 - Extracted actionable insights
 
-🔗 [View Project ➜](https://github.com/ND3MW4/Titanic-Exploratory-Data-Analysis)
+🔗 [EDA ➜](https://github.com/ND3MW4/Titanic-Exploratory-Data-Analysis)
 
 ---
 
