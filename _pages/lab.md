@@ -5,7 +5,9 @@ permalink: /labs/
 author_profile: true
 ---
 📊 Business Intelligence with Power BI
-🧩 Problem Statement
+
+#🧩 Problem Statement
+
 Build an interactive dashboard to analyze and visualize product sales, regional performance, and key business metrics for a fictional retail company.
 
 ⚙️ Approach
@@ -42,7 +44,6 @@ DAX
 
 **Dashboard 3**
 <img width="996" height="559" alt="bi 1" src="https://github.com/user-attachments/assets/a3268c16-a269-41d8-905a-6559fdb5b27e" />
-
 
 
 
