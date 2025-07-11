@@ -89,9 +89,52 @@ Excel
 
 🖼️ Screenshots
 
----
+**Building data source from a ChatGPT prompt**
 
-(Add screenshots of Tableau dashboards and individual charts here)
+<img width="825" height="625" alt="image" src="https://github.com/user-attachments/assets/5f889fd1-c683-4a6e-bf3a-ea0f70359a07" />
+
+2.	Connect data
+ 
+<img width="792" height="219" alt="image" src="https://github.com/user-attachments/assets/52ecad6b-7a0f-4e6b-8cba-307a4fad764c" />
+
+
+**3. data visualization**
+
+<img width="792" height="222" alt="image" src="https://github.com/user-attachments/assets/006bea62-e5ea-46f1-b93e-55ead0707221" />
+
+
+** 4. Creating test field**
+<img width="848" height="272" alt="image" src="https://github.com/user-attachments/assets/7b631a7f-1717-4e5f-a484-19ea6b5d7494" />
+
+**5.  Creating BANNS**
+
+<img width="615" height="341" alt="image" src="https://github.com/user-attachments/assets/bec3b6b6-c047-48d6-9faa-8aab7cfe9b59" />
+
+
+** 6. Creating Calculated fields**
+
+<img width="409" height="158" alt="image" src="https://github.com/user-attachments/assets/f834ac40-1b0b-4f35-8e15-9377d4b4bf81" />
+
+
+** 7. Creating Charts**
+
+<img width="764" height="228" alt="image" src="https://github.com/user-attachments/assets/a1115895-8c4b-4509-be6f-5f4045c0e2ce" />
+
+
+** 8. Creating dashboard by importing and positioning all charts to the dashboard using text to label the dashboard, horizontal and vertical containers to house all the charts and dividers to separate charts**
+
+
+<img width="723" height="518" alt="image" src="https://github.com/user-attachments/assets/2bf02aee-9540-4382-aa7a-32de8d0e9666" />
+
+**Dashboard 1**
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/b0b82a76-a3ea-41cb-a534-4b3e5095fcb8" />
+
+**Dashboard 2**
+<img width="869" height="488" alt="image" src="https://github.com/user-attachments/assets/d5e62998-d9b9-4542-9d21-f18708673f0b" />
+
+
+
+---
 
 # Key Lessons Learned
 
