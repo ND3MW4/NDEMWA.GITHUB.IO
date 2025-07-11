@@ -7,7 +7,7 @@ author_profile: true
 
 📊 Data Scientist,⚡Electrical & Electronics Engineer
 
-📄 Curriculum Vitae – Denis Ndemwa
+# 📄 Curriculum Vitae – Denis Ndemwa
 
 ---
 ## 🎓 **Education**
