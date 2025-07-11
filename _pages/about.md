@@ -37,9 +37,7 @@ Feel free to reach out through any of the following channels:
 ---
 
 ## 🤝 **Connect with me**
-- [GitHub](https://github.com/ND3MW4)
-- [LinkedIn](https://www.linkedin.com/in/denisndemwa/)
-- 📧 [E-mail](mailto:kyalodenis@gmail.com)
+- 👨‍💻 [GitHub](https://github.com/ND3MW4)  - 📇 [LinkedIn](https://www.linkedin.com/in/denisndemwa/)  - 📧 [E-mail](mailto:kyalodenis@gmail.com)
 
 > ⚡ *Building solutions that blend engineering precision with data-driven insights.*
 
