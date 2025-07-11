@@ -2,7 +2,7 @@
 layout: single
 author_profile: true
 ---
-# 📄 Curriculum Vitae – Denis Ndemwa
+# Denis Ndemwa - 📊 Data Scientist,⚡Electrical & Electronics Engineer
 ---
 ## 🎓 **Education**
 - **Bachelor in Technology: Electrical and Electronics Engineering**, Technical University of Kenya
