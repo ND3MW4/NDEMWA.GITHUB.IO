@@ -331,5 +331,4 @@ Clear documentation helps protect the team and keep stakeholders aligned.
 
 ---
 
-
-* “Transforming vision into built reality with precision and technology.” *
+> “Transforming vision into built reality with precision and technology.” 
