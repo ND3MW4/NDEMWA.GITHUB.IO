@@ -40,6 +40,7 @@ Feel free to reach out through any of the following channels:
 - 👨‍💻 [GitHub](https://github.com/ND3MW4)  - 📇 [LinkedIn](https://www.linkedin.com/in/denisndemwa/)  - 📧 [E-mail](mailto:kyalodenis@gmail.com)
 
 > ⚡ *Building solutions that blend engineering precision with data-driven insights.*
+
 > ⚡ *Thank you for visiting my portfolio!*
 
 ---
