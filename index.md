@@ -45,6 +45,12 @@ author_profile: true
 
 **ELECTRICAL ENGINEERING PROJECTS**
 
+- **1. Smart Energy Meter**
+- **2. PLC Automation**
+- **3. Automated Battery Charging System**
+_ **4. Nighttime protection with light sensing**
+
+
 ---
 
 ## 🤝 **Collaborations & Memberships**
