@@ -1,18 +1,18 @@
 main:
-  - title: "Home"
+  - title: "🏠 Home"
     url: /
 
-  - title: "Data Science"
+  - title: "📊 Data Science"
     url: /projects/
 
-  - title: "Electrical & Electronics"
+  - title: "⚡ Electrical & Electronics"
     url: /electrical/
 
-  - title: "Lab Challenges"
+  - title: "🔬 Lab Challenges"
     url: /labs/
 
-  - title: "About"
+  - title: "👤 About"
     url: /about/
 
-  - title: "Contacts"
-    url: /contacts/
+  - title: "📞 Contact"
+    url: /contact/
