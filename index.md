@@ -12,7 +12,7 @@ author_profile: true
 
 ---
 
-## 📄 Curriculum Vitae
+## 📄 Curriculum Vitae 
 
 ### 🎓 **Education**
 - **Bachelor in Technology (Electrical & Electronics Engineering)**  
