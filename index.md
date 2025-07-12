@@ -1,61 +1,71 @@
 ---
 layout: single
+title: "🌐 About Me"
+permalink: /about/
 author_profile: true
 ---
 
-# 🌐 DENIS NDEMWA
+# 🌐 Denis Ndemwa
 
-📊 Data Scientist,⚡Electrical & Electronics Engineer
-
-# 📄 Curriculum Vitae – Denis Ndemwa
-
-## 🎓 **Education**
-- **Bachelor in Technology: Electrical and Electronics Engineering**, Technical University of Kenya
-- **Diploma in Technology: Electrical and Electronics Engineering**, Technical University of Kenya
+📊 **Data Scientist** & ⚡ **Electrical & Electronics Engineer**  
+*Turning analytics-powered systems into reality.*
 
 ---
 
-## 📜 **Certifications**
-**Industrial certifications**:
+## 📄 Curriculum Vitae
+
+### 🎓 **Education**
+- **Bachelor in Technology (Electrical & Electronics Engineering)**  
+  Technical University of Kenya
+- **Diploma in Technology (Electrical & Electronics Engineering)**  
+  Technical University of Kenya
+
+---
+
+### 📜 **Certifications**
 - Data and AI
 - Programmable Logic Controller (PLC)
 - Supervisory Control and Data Acquisition (SCADA)
 - Variable Frequency Drive (VFD)
-- Internet of Things and Embedded Systems
+- Internet of Things (IoT) & Embedded Systems
 - Accounting Fundamentals
 
 ---
 
-## 💼 **Professional Experience**
- **1. Electrical and Electronics Engineer**, Nairobi County Government
- **2. Electrical and Electronics Engineer**, Nairobi City Water and Sewerage Company
- **3. Construction Site Supervisor**,        Alpha Quest Models
+### 💼 **Professional Experience**
+- **Electrical & Electronics Engineer**  
+  Nairobi County Government
+- **Electrical & Electronics Engineer**  
+  Nairobi City Water and Sewerage Company
+- **Construction Site Supervisor**  
+  Alpha Quest Models
 
 ---
 
-## 📂 **Projects**
- **DATA SCIENCE AND AI PROJECTS**
- **1. Web Scraping**
- **2. Data Wrangling Project**
- **3. Exploratory Data Analysis (EDA)**
- **4. Business Intelligence with Power BI**
- **5. Data Visualization using Tableau**
- **6. Linear Regression model**
- **7. Classification Models**
+### 📂 **Projects**
 
-**ELECTRICAL ENGINEERING PROJECTS**
- **1. Smart Energy Meter**
- **2. PLC Automation**
- **3. Automated Battery Charging System**
- **4. Nighttime protection with light sensing**
+#### 🧪 *Data Science & AI*
+- Web Scraping
+- Data Wrangling Project
+- Exploratory Data Analysis (EDA)
+- Business Intelligence with Power BI
+- Data Visualization using Tableau
+- Linear Regression Model
+- Classification Models
 
----
-
-## 🤝 **Collaborations & Memberships**
- - Cubing Kenya
+#### ⚙️ *Electrical & Electronics Engineering*
+- Smart Energy Meter
+- PLC Automation
+- Automated Battery Charging System
+- Nighttime Protection with Light Sensing
 
 ---
 
-> ⚡ *Bridging electronics and AI to bring analytics-powered systems to life.*
+### 🤝 **Collaborations & Memberships**
+- Cubing Kenya
+
+---
+
+> ⚡ *Bridging electronics and AI to create intelligent, real-time solutions.*
 
 ---
