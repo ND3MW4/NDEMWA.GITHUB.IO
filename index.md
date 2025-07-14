@@ -3,6 +3,8 @@ layout: single
 author_profile: true
 ---
 
+# 🌐 Denis Ndemwa
+
 📊 **Data Scientist** & ⚡ **Electrical & Electronics Engineer**  
 *Turning analytics-powered systems into reality.*
 
