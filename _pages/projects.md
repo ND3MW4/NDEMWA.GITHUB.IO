@@ -5,8 +5,6 @@ permalink: /projects/
 author_profile: true
 ---
 
-# 💡 Projects
-
 A curated collection of my work in **Data Science, Machine Learning, AI, and Business Intelligence**.
 
 ---
