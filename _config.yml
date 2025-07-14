@@ -7,13 +7,10 @@ description: "Electrical & Electronics Engineer | Researcher | Consultant — Pa
 twitter_username: DenisNdemwa
 github_username: ND3MW4
 
-# Theme skin
-# options: air, aqua, contrast, dark, dirt, neon, mint, plum, sunrise
-minimal_mistakes_skin: neon # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: neon
 
 search: true
-
-remote_theme: mmistakes/minimal-mistakes
 markdown: kramdown
 paginate: 3
 paginate_path: /page:num/
